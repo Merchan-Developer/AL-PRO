@@ -1,0 +1,46 @@
+/* Fondo animado */
+body {
+    background: linear-gradient(45deg, #FAD6A5, #ECA869, #8D5A4F);
+    background-size: 200% 200%;
+    animation: gradientAnimation 8s infinite alternate;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Ocupa toda la pantalla */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Centrar y estilizar el contenedor del reproductor */
+.audio-wrapper {
+    background: rgba(255, 255, 255, 0.15); /* Fondo translúcido */
+    backdrop-filter: blur(10px); /* Efecto vidrio */
+    padding: 20px;
+    border-radius: 15px; /* Bordes redondeados */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Sombra elegante */
+    text-align: center;
+    width: 90%; /* Mantener proporciones naturales */
+    max-width: 500px; /* Tamaño máximo del reproductor */
+}
+
+/* Ajustes para el reproductor de audio */
+audio {
+    width: 100%; /* Usar todo el ancho del contenedor */
+    height: 50px; /* Altura del reproductor más compacta */
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+}
