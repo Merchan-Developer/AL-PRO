@@ -1,6 +1,6 @@
-# AL-PRO Enhanced Plugin
+# AL-PRO Plugin
 
-AL-PRO Enhanced es un plugin diseñado por Merchan.Dev para WordPress. Este plugin integra un reproductor de audio moderno, compacto y visualmente atractivo. Ha sido pensado específicamente para trabajar con el editor Gutenberg y se adapta perfectamente al diseño predeterminado del reproductor de WordPress, mejorándolo con detalles visuales y de diseño.
+AL-PRO es un plugin diseñado por Merchan.Dev para WordPress. Este plugin integra un reproductor de audio moderno, compacto y visualmente atractivo. Ha sido pensado específicamente para trabajar con el editor Gutenberg y se adapta perfectamente al diseño predeterminado del reproductor de WordPress, mejorándolo con detalles visuales y de diseño.
 
 ## Características
 
