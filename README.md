@@ -2,6 +2,8 @@
 
 AL-PRO es un plugin diseñado por Merchan.Dev para WordPress. Este plugin integra un reproductor de audio moderno, compacto y visualmente atractivo. Ha sido pensado específicamente para trabajar con el editor Gutenberg y se adapta perfectamente al diseño predeterminado del reproductor de WordPress, mejorándolo con detalles visuales y de diseño.
 
+Para adaptaciones para tu proyecto, contáctame a través de WhatsApp: +584249094248
+
 ## Características
 
 - Reproductor de audio compacto y centrado en la pantalla. Mantiene sus proporciones originales y no invade los márgenes de la página.
